@@ -1,3 +1,5 @@
+> **Moved:** our SEP team page is now at https://github.com/kimdobinn/SEP-FlowFinancials
+
 # Flow Financials — SEP Progress Updates
 
 Progress reporting for Team Flow Financials (NTU CCDS Student Entrepreneurship Program, iLab).
